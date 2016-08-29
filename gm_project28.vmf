@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7076"
-	"mapversion" "18"
+	"mapversion" "19"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "18"
+	"mapversion" "19"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -935,7 +935,7 @@ world
 		{
 			"id" "179"
 			"plane" "(16256 -16320 -13376) (16256 16320 -13376) (16256 16320 16320)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1076,7 +1076,7 @@ world
 		{
 			"id" "190"
 			"plane" "(-16320 16320 16256) (-16320 -16320 16256) (16320 -16320 16256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "TOOLS/TOOLSSKYBOX2D"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -2430,8 +2430,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-14591.5 14950 -11413.1]"
-		"look" "[-14591.5 14950 46696.4]"
+		"position" "[13888 14592 -11584]"
+		"look" "[99184.1 -36474.3 -27404.7]"
 	}
 }
 cordon
